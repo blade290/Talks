@@ -2,7 +2,7 @@
 
 ## Talk Resources
 
-* [Slides](link)
+* [Slides](ApprovalTesting-WhenItsTooLateForTDD-1.2.pdf)
 * [Code - Gilded Rose Kata](link)
 * [Approval Tests](https://approvaltests.com/)
 * [Approvals Github Repository](https://github.com/approvals)
